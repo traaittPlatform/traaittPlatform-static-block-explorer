@@ -170,5 +170,5 @@ txs_as_hex - []
 
 traaittPlatform (c) 2020
 https://traaittPlatform.com
-https://explorer.traaittPlatform.com
+https://traaittchain.com
 ```
